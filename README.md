@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahir Al Imran</h1>
+<h1 align="center">Henlo 👋, I'm Mahir Al Imran</h1>
 <h3 align="center">Trying to become a programmer, currently negotiating with segmentation faults</h3>
 
 <p align="center">
