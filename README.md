@@ -23,7 +23,7 @@
 
 <p align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahiralimran&theme=github_dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mahiralimran&show_icons=true&theme=dark" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahiralimran&theme=dark" height="150"/>
   
 </p>
