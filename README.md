@@ -30,6 +30,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahiralimran&layout=compact&bg_color=000000&title_color=ffffff&text_color=cccccc&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mahiralimran&bg_color=000000&text_color=ffffff&title_color=ffffff&hide_border=true"/>
 </p>
 
 <p align="center">
