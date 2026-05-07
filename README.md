@@ -19,15 +19,16 @@
 
 ---
 
-### 📊 GitHub Stats
+<!--### 📊 GitHub Stats-->
 
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=mahiralimran&show_icons=true&theme=dark" height="150"/>
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=mahiralimran&show_icons=true&theme=dark" height="150"/>-->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahiralimran&theme=dark" height="150"/>
   
 </p>
-
+<!--
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahiralimran&bg_color=000000&color=ffffff&line=ffffff&point=cccccc&area=true&hide_border=true"/>
 </p>
+-->
